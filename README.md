@@ -1,7 +1,7 @@
 # RRFNet
 The official implementation of RRFNet.
 
-RRFNet is implemented based on Ultralytics.
+RRFNet is implemented based on YOLOv8.
 
 The brain tumor datasets used in this paper is stored in the [datasets](https://github.com/Mr-cream/RRFNet/tree/main/datasets/brain_tumor_3class) directory.
 
